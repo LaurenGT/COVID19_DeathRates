@@ -1,5 +1,4 @@
 # project1
-<<<<<<< HEAD
 Project Title: 
 The Relationship between Emergency Room Access and COVID-19 Mortality Rates
 
@@ -33,7 +32,3 @@ Before next class -
 *At our next meeting the group will decide which data is most approporate for use in our project
 *LT will act as the adminstrator of the GitHub repo
 *RA will serve as the project manager
-=======
-
-lauren testing contribution
->>>>>>> main
