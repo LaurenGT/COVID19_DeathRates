@@ -1,3 +1,9 @@
+# mac ignore
+.DS-store
+
+#config.py ignore
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

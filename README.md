@@ -32,3 +32,7 @@ Before next class -
 *At our next meeting the group will decide which data is most approporate for use in our project
 *LT will act as the adminstrator of the GitHub repo
 *RA will serve as the project manager
+During Next Class:
+*As a team we will clean the initial COVID and Census data, creating a plan for how to merge those two datasets
+*TBD deeper dives into addtional questions (poverty impact, racial impact, etc)
+*TBD presentation creation and analysis
