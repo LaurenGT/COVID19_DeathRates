@@ -1,5 +1,4 @@
-﻿Name ,Abbreviation,Total # EDs,Total ED visit volume,Median visit volume,IQR visit volume,,<10k,10-19k,20-29k,30-39k,40-49k,>50k
-United States,USA,"5,533","158,756,870","20,000","7,760","43,065","1,691","1,041",665,605,457,"1,074"
+﻿Name,Abbreviation,Total # Eds,Total ED visit volume,Median visit volume,IQR visit volume,,<10k,10-19k,20-29k,30-39k,40-49k,>50k
 Alaska,AK,20,"261,985","5,979","2,270","16,180",13,3,0,3,0,1
 Alabama,AL,98,"2,825,756","22,197","11,000","42,087",18,28,11,15,8,18
 Arkansas,AR,79,"1,730,571","12,350","7,000","32,799",30,19,9,5,4,12
@@ -51,5 +50,3 @@ Washington,WA,99,"2,952,721","21,900","7,782","47,450",26,20,11,10,10,22
 Wisconsin,WI,131,"2,766,586","14,600","8,000","29,200",43,39,19,11,9,10
 West Virginia,WV,50,"1,250,237","18,838","10,950","38,343",9,16,7,7,4,7
 Wyoming,WY,28,"229,704","4,165","2,270","10,625",20,5,1,1,1,0
-,,,,,,,,,,,,
-"Abbreviations: ED, emergency department; IQR - interquartile range ",,,,,,,,,,,,
