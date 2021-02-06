@@ -1,5 +1,5 @@
 # mac ignore
-.DS-store
+.DS-Store
 
 #config.py ignore
 config.py
