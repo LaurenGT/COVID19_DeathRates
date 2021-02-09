@@ -9,9 +9,10 @@ Sharath Menon
 Lauren Toothaker
 
 Project Description/Outline:
-We plan to analyze county-level data to explore the relationship between emergency room availability, measured as a count of ER rooms per county by population, and county COVID-19 mortality rates.
 
-Should time permit, we also plan to add additional layers of data to our analysis - potentially including poverty data, race and ethnicity demographic data, and educational attainment data.
+We will analyze state-level data to explore the relationship between emergency room availability (Measured as a count of emegency departments per state by population), poverty rates, and county COVID-19 mortality rates.
+
+Should time permit, we also plan to add additional layers of data to our analysis - potentially race and ethnicity demographic data, and educational attainment data.
 
 Research Questions to Answer:
 When adjusted on a per-capita basis, does an increased number of emergency rooms in a county result in lower mortality rates from COVID-19?
@@ -26,19 +27,18 @@ The Atlantic's COVID-19 Tracking Project: https://covidtracking.com/data/api
 Center's for Disease Control and Prevention: https://www.cdc.gov/apis.html
 
 Rough Breakdown of Tasks:
-Before next class -
+
 *Each group member should search for additional datasets that could be of use for our project
 *At our next meeting group members will be assigned a dataset to clean and create a useful dataframe from
 *At our next meeting the group will decide which data is most approporate for use in our project
+
 *LT will act as the adminstrator of the GitHub repo
-<<<<<<< HEAD
 *RA will serve as the project manager
-During Next Class:
+
 *As a team we will clean the initial COVID and Census data, creating a plan for how to merge those two datasets
 *TBD deeper dives into addtional questions (poverty impact, racial impact, etc)
 *TBD presentation creation and analysis
-=======
-*RA will serve as the project manager
->>>>>>> cb87d4e71392943ae54fa75e00fe7951e9a87344
+
+
 
 
