@@ -40,5 +40,19 @@ Rough Breakdown of Tasks:
 *TBD presentation creation and analysis
 
 
+## Final Write-Up
+Q1: Is there a relationship between Emergency department (ED) concentration and COVID-19 death rates?
+
+A: The r-value of the Covid-19 death rates and EDs per capita suggests a weak inverse relationship. The calculated r-value is -0.46.
+
+![EDs and Covid-19 Deaths](images/COVID-19 Death Rate and Emergency Departments Per Capita.png)
+
+
+Q2:
+A:
+
+Q3:
+A:
+
 
 
